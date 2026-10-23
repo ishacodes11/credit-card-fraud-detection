@@ -64,5 +64,4 @@ Confusion matrix:
 ## Limitations
 This is an educational prototype, not a production banking fraud detection system. Predictions depend on the training data, preprocessing, and decision threshold. The model should not be used to make real financial decisions.
 
-## Author
-Add your name and internship details here.
+Rashmika
